@@ -1,0 +1,50 @@
+.App {
+  max-width: 1140px;
+  box-shadow: 0 0 1px 1px lightgrey;
+  border-radius: 5px;
+  margin: 0 auto;
+  padding: 4px;
+}
+
+.title {
+  text-align: center;
+}
+
+.subtitle {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.cards img {
+  width: 500px;
+}
+
+.text {
+  text-align: center;
+
+}
+
+.cards-img {
+  display: block;
+}
+
+.card .cards-img img {
+  width: 30px;
+}
+
+.cards {
+  display: flex;
+}
+
+.card {
+  display: flex;
+}
+
+.button {
+  padding: 15px 10px;
+  font-size: 20px;
+  color: black;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  
+}
